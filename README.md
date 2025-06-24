@@ -21,6 +21,6 @@ Além do backend, o projeto conta com uma interface simples utilizando Bootstrap
 - Tomcat
 
 <div align="center">
-  <img src = "![Image](https://github.com/user-attachments/assets/f83242b6-139c-4981-87b4-638afc9733bd)" width="900px" />
+  <img src = "https://github.com/user-attachments/assets/f83242b6-139c-4981-87b4-638afc9733bd" width="900px" />
 </div>
 <p align="center">Tela Inicial.</p>
